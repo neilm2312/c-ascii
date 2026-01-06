@@ -1,0 +1,14 @@
+# Build artifacts
+*.o
+*.out
+ascii3d
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Debug files
+*.dSYM/

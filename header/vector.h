@@ -6,7 +6,7 @@ typedef struct {
 } Vector;
 
 // Vector operations
-Vector create_vector(float x, float y, float z);
+Vector vector_create(float x, float y, float z);
 Vector add_vector(Vector a, Vector b);
 Vector subtract_vector(Vector a, Vector b);
 Vector multiply_vector(Vector v, float scalar);
