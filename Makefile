@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Iinclude -Wall -Wextra -g
+CFLAGS = -Iheader -Wall -Wextra -g
 SRC = source/main.c source/vector.c source/matrix.c source/render.c source/object.c
 OBJ = $(SRC:.c=.o)
 TARGET = ascii3d
