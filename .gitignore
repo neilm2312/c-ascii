@@ -1,0 +1,15 @@
+# Build artifacts
+*.o
+ascii3d
+
+# Editor files
+*.swp
+*~
+.vscode/
+.idea/
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
